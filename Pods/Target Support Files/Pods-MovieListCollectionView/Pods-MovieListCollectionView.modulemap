@@ -1,0 +1,6 @@
+framework module Pods_MovieListCollectionView {
+  umbrella header "Pods-MovieListCollectionView-umbrella.h"
+
+  export *
+  module * { export * }
+}
